@@ -55,3 +55,20 @@ header nav ul a:hover {
   font-size: 30px;
   font-weight: 300;
 }
+#Work{
+  background-color: #45567d;
+  overflow-y: none;
+
+}
+.parent_work{
+  display: flex;
+  gap: 5%;
+
+}
+.parent_work img{
+  max-width: 100%
+}
+.boxContainer{
+  width: 25%;
+
+}
